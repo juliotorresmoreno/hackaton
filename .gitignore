@@ -1,0 +1,5 @@
+data/*
+*.7z
+metastore_db
+derby.log
+*.jar
